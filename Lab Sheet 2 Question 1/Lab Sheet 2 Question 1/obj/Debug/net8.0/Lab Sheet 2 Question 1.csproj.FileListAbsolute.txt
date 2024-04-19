@@ -1,0 +1,14 @@
+C:\Users\harin\Documents\C# Lab\Lab Sheet 2 Question 1\Lab Sheet 2 Question 1\bin\Debug\net8.0\Lab Sheet 2 Question 1.exe
+C:\Users\harin\Documents\C# Lab\Lab Sheet 2 Question 1\Lab Sheet 2 Question 1\bin\Debug\net8.0\Lab Sheet 2 Question 1.deps.json
+C:\Users\harin\Documents\C# Lab\Lab Sheet 2 Question 1\Lab Sheet 2 Question 1\bin\Debug\net8.0\Lab Sheet 2 Question 1.runtimeconfig.json
+C:\Users\harin\Documents\C# Lab\Lab Sheet 2 Question 1\Lab Sheet 2 Question 1\bin\Debug\net8.0\Lab Sheet 2 Question 1.dll
+C:\Users\harin\Documents\C# Lab\Lab Sheet 2 Question 1\Lab Sheet 2 Question 1\bin\Debug\net8.0\Lab Sheet 2 Question 1.pdb
+C:\Users\harin\Documents\C# Lab\Lab Sheet 2 Question 1\Lab Sheet 2 Question 1\obj\Debug\net8.0\Lab Sheet 2 Question 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harin\Documents\C# Lab\Lab Sheet 2 Question 1\Lab Sheet 2 Question 1\obj\Debug\net8.0\Lab Sheet 2 Question 1.AssemblyInfoInputs.cache
+C:\Users\harin\Documents\C# Lab\Lab Sheet 2 Question 1\Lab Sheet 2 Question 1\obj\Debug\net8.0\Lab Sheet 2 Question 1.AssemblyInfo.cs
+C:\Users\harin\Documents\C# Lab\Lab Sheet 2 Question 1\Lab Sheet 2 Question 1\obj\Debug\net8.0\Lab Sheet 2 Question 1.csproj.CoreCompileInputs.cache
+C:\Users\harin\Documents\C# Lab\Lab Sheet 2 Question 1\Lab Sheet 2 Question 1\obj\Debug\net8.0\Lab Sheet 2 Question 1.dll
+C:\Users\harin\Documents\C# Lab\Lab Sheet 2 Question 1\Lab Sheet 2 Question 1\obj\Debug\net8.0\refint\Lab Sheet 2 Question 1.dll
+C:\Users\harin\Documents\C# Lab\Lab Sheet 2 Question 1\Lab Sheet 2 Question 1\obj\Debug\net8.0\Lab Sheet 2 Question 1.pdb
+C:\Users\harin\Documents\C# Lab\Lab Sheet 2 Question 1\Lab Sheet 2 Question 1\obj\Debug\net8.0\Lab Sheet 2 Question 1.genruntimeconfig.cache
+C:\Users\harin\Documents\C# Lab\Lab Sheet 2 Question 1\Lab Sheet 2 Question 1\obj\Debug\net8.0\ref\Lab Sheet 2 Question 1.dll
